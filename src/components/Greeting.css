@@ -1,0 +1,35 @@
+.Greet{
+    /* padding-left: 9em;  */
+     padding-top: 6em; 
+    text-align: center;
+    background-image: url("https://html.sammy-codes.com/images/background.jpg");
+    background-size: cover;
+    height:100vh;
+    background-repeat: no-repeat;
+    margin: 100px;
+}
+.greeting{
+    text-align:center;
+    margin-top: 50px;
+    font-size: 2em;
+}
+.GoodMorning{
+    color:green;
+}
+.GoodAfternoon{
+    color:blue;
+}
+.GoodEvening{
+    color:orange;
+}
+.GoodNight{
+    color:Black;
+}
+.One{
+    padding-top: 20px;
+    margin-left: 30px;
+}
+.two{
+    padding-top: 20px;
+    margin-right: 10px;
+}
